@@ -1,1 +1,3 @@
-# little-bits
+# little-bits :-)
+
+## Hello world!
