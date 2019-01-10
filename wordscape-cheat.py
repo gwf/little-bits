@@ -35,7 +35,7 @@ def build_regex(word):
 
 def build_data():
   allWords = []
-  infile = open("/usr/share/dict/words")
+  infile = open("/usr/share/dict/american-english")
   for word in infile:
     code = encode(word.strip())
     allWords.append(code)
